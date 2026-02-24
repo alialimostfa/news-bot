@@ -64,4 +64,5 @@ send_to_telegram("🤖 <b>البوت شغال!</b>")
 while True:
     fetch_and_send()
     print("⏳ انتظار 30 دقيقة...")
-    time.sleep(60 * 30)
+    time.sleep(30)
+
