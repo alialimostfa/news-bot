@@ -5,7 +5,8 @@ import time
 from datetime import datetime
 
 BOT_TOKEN = "8651602237:AAF-YUYTpPoi9QGPGN9iRgT5dkRKABYMkAU"
-CHAT_ID = "-5104075619"
+CHAT_ID = "5104075619"
+
 
 RSS_FEEDS = {
     "🇺🇸 Reuters": "https://feeds.reuters.com/reuters/topNews",
